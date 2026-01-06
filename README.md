@@ -38,8 +38,3 @@ Results:
 - Demonstrates 3.6x improvement from pre-training
 
 Runtime: ~2 hours on GPU (T4)
-
-
-print("Question Answering with Transformers")
-print("Author: [Your Name]")
-print("Dataset: SQuAD 2.0")
